@@ -1,0 +1,47 @@
+Tir-na Nog'th End User License Agreement
+Copyright (c) 2026 Trent Shapiro. All rights reserved.
+
+1. Definitions
+   "Game" means the compiled Tir-na Nog'th executable and any files distributed
+   with it in this repository's releases. "Author" means the copyright holder
+   named above. "You" means the individual who downloads or runs the Game.
+
+2. Grant
+   The Author grants You a personal, non-exclusive, non-transferable, revocable
+   license to download the Game and to run it for private, personal, non-commercial
+   entertainment. No fee is charged for this license.
+
+3. Restrictions
+   You may not, in whole or in part:
+   (a) sell, rent, lease, sublicense, or otherwise distribute the Game, or charge
+       any fee for access to it, or use it in any commercial or revenue-generating
+       activity;
+   (b) create derivative works of the Game, or modify, adapt, or build upon it;
+   (c) redistribute the Game, whether modified or unmodified, by any means;
+   (d) decompile, disassemble, or reverse engineer the Game, or attempt to derive
+       its source code, except to the limited extent this restriction is prohibited
+       by applicable law;
+   (e) remove, obscure, or alter any copyright, license, or attribution notice.
+
+4. Reservation of rights
+   The Game's original code and original artwork are the exclusive property of the
+   Author. All rights not expressly granted in Section 2 are reserved. No ownership
+   is transferred by this license.
+
+5. Third-party components
+   The Game incorporates third-party software and art assets that remain governed by
+   their own licenses. Those components are listed in CREDITS.md and THIRD-PARTY-RUST.md,
+   with full license texts in the LICENSES/ directory. Nothing in this Agreement
+   restricts any right You have in those components under their respective licenses,
+   and nothing in those licenses grants You any right in the Author's original code
+   or original artwork beyond Section 2.
+
+6. No warranty
+   THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+   FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE GAME OR ITS USE.
+
+7. Termination
+   This license terminates automatically if You breach any term. On termination You
+   must stop using the Game and delete all copies.
