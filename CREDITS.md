@@ -4,6 +4,13 @@ Tir-na Nog'th uses the third-party assets below. The game's own code and origina
 are the property of the author and are covered by `LICENSE`. Rust dependencies compiled
 into the binary are listed separately in `THIRD-PARTY-RUST.md`.
 
+## Inspiration and acknowledgements
+
+Tir-na Nog'th owes a deep creative debt to Roger Zelazny and *The Chronicles of Amber*.
+Its setting, characters, and concepts riff heavily on his work, including the name
+Tir-na Nog'th itself. This game is an independent, non-commercial work of homage. It is
+not affiliated with, authorized by, or endorsed by Roger Zelazny or his estate.
+
 ## Font
 
 - **IM Fell English (Roman)** by Igino Marini. Copyright (c) 2007 Igino Marini
