@@ -17,6 +17,10 @@ The executable is not code-signed, so Windows SmartScreen may show a blue
 "Windows protected your PC" notice on first launch. Click **More info**, then
 **Run anyway**. This is expected for an unsigned indie build.
 
+## Changelog
+
+Release-by-release notes are in `CHANGELOG.md` and on each Release.
+
 ## License
 
 The game is provided under a personal, non-commercial license. You may download and play
