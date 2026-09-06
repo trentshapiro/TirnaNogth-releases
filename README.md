@@ -26,5 +26,5 @@ it for free. You may not sell it, redistribute it, modify it, or build upon it. 
 ## Attribution
 
 Third-party assets and their licenses are credited in `CREDITS.md`. The Rust libraries
-compiled into the binary are listed in `THIRD-PARTY-RUST.md`. Full license texts are in
+compiled into the binary are listed in `THIRD-PARTY-NOTICES.md`. Full license texts are in
 the `LICENSES/` directory.

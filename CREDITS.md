@@ -2,7 +2,7 @@
 
 Tir-na Nog'th uses the third-party assets below. The game's own code and original art
 are the property of the author and are covered by `LICENSE`. Rust dependencies compiled
-into the binary are listed separately in `THIRD-PARTY-RUST.md`.
+into the binary are listed separately in `THIRD-PARTY-NOTICES.md`.
 
 ## Inspiration and acknowledgements
 
@@ -33,5 +33,5 @@ request and as a courtesy.
 ## Engine and libraries
 
 The game is built with the Bevy engine and the wider Rust crate ecosystem. Every crate
-compiled into the binary, with its version and license, is listed in
-`THIRD-PARTY-RUST.md`. Full texts of the license families used are in `LICENSES/`.
+compiled into the binary, with its version, license, and full license text, is listed in
+`THIRD-PARTY-NOTICES.md`.
