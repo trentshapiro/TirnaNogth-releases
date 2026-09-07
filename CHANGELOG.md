@@ -8,6 +8,13 @@ that release's notes, so write each entry for a player, not a developer.
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-09-06
+
+### Fixed
+- Removed a leftover developer key legend from the bottom of the release screen. The debug keys
+  themselves were never in a release build; only the on-screen text remained. Production builds now
+  refuse to package if any developer tooling is present.
+
 ## [0.1.0] - 2026-09-06
 
 First public build.
