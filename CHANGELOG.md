@@ -6,6 +6,22 @@ All notable, player-facing changes to Tir-na Nog'th. The format follows
 The release workflow reads the section whose version matches the pushed tag and uses it as
 that release's notes, so write each entry for a player, not a developer.
 
+## [0.3.0] - 2026-09-12
+
+### Added
+- The Compendium, an in-game wiki of 304 pages, opened from the Escape menu and searchable.
+- A card or monster page stands its model in a case you can turn.
+- The scribe's desk runs recipes: apply an ink, branch on what the card reads, repeat until a
+  condition holds, and compose one recipe into another.
+- Example recipes come with every account, shared by all your characters.
+- A recipe runs one operation at a time so you can watch it, at 1x, 2x or 3x, and end it between
+  two steps without losing incremental progress.
+- Before a run, the scribe estimates it over 240 dry runs: how often it reaches the end, how many
+  loops it takes, and how much ink it wants against how much you hold.
+- A cap on how many loops one run may take, which you set.
+- The desk has three tabs: Inks, Pool and Recipe.
+- Roll Until is a recipe now rather than a button of its own.
+
 ## [0.2.0] - 2026-09-08
 
 ### Added
