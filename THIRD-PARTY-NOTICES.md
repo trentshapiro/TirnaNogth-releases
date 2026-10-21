@@ -64,7 +64,6 @@ Total: 512 crates.
 | bevy_ecs | 0.19.0 | Apache-2.0 | https://github.com/bevyengine/bevy |
 | bevy_ecs_macro_logic | 0.19.0 | Apache-2.0 |  |
 | bevy_ecs_macros | 0.19.0 | Apache-2.0 |  |
-| bevy_embedded_assets | 0.16.0 | Apache-2.0 | https://github.com/vleue/bevy_embedded_assets |
 | bevy_encase_derive | 0.19.0 | Apache-2.0 | https://github.com/bevyengine/bevy |
 | bevy_feathers | 0.19.0 | Apache-2.0 | https://github.com/bevyengine/bevy |
 | bevy_gilrs | 0.19.0 | Apache-2.0 | https://github.com/bevyengine/bevy |
@@ -266,6 +265,7 @@ Total: 512 crates.
 | litrs | 1.0.0 | Apache-2.0 | https://github.com/LukasKalbertodt/litrs |
 | lock_api | 0.4.14 | Apache-2.0 | https://github.com/Amanieu/parking_lot |
 | log | 0.4.33 | Apache-2.0 | https://github.com/rust-lang/log |
+| lzma-rust2 | 0.23.0 | Apache-2.0 | https://github.com/hasenbanck/lzma-rust2/ |
 | mach2 | 0.5.0 | Apache-2.0 | https://github.com/JohnTitor/mach2 |
 | matchers | 0.2.0 | MIT | https://github.com/hawkw/matchers |
 | memchr | 2.8.3 | MIT | https://github.com/BurntSushi/memchr |
@@ -917,9 +917,9 @@ Apache License
    END OF TERMS AND CONDITIONS
 ```
 
-### Apache-2.0  (38 crates)
+### Apache-2.0  (37 crates)
 
-Applies to: accesskit 0.24.1, accesskit_consumer 0.35.0, accesskit_consumer 0.37.0, accesskit_macos 0.26.2, accesskit_windows 0.32.1, accesskit_winit 0.32.2, bevy_embedded_assets 0.16.0, bevy_scene_macros 0.19.0, cesu8 1.1.0, constgebra 0.1.4, dasp_sample 0.11.0, dispatch2 0.3.1, document-features 0.2.12, gilrs 0.11.2, gilrs-core 0.6.8, gpu-descriptor 0.3.2, gpu-descriptor-types 0.2.0, jni 0.22.4, jni-macros 0.22.4, jni-sys-macros 0.4.1, ndk 0.9.0, ndk-context 0.1.1, ndk-sys 0.6.0+11769913, objc2-audio-toolbox 0.3.2, objc2-avf-audio 0.3.2, objc2-core-audio 0.3.2, objc2-core-audio-types 0.3.2, objc2-core-foundation 0.3.2, objc2-io-kit 0.3.2, objc2-metal 0.3.2, objc2-quartz-core 0.3.2, profiling 1.0.18, r-efi 5.3.0, r-efi 6.0.0, spirv 0.4.0+sdk-1.4.341.0, svg_fmt 0.4.5, winapi-i686-pc-windows-gnu 0.4.0, winapi-x86_64-pc-windows-gnu 0.4.0
+Applies to: accesskit 0.24.1, accesskit_consumer 0.35.0, accesskit_consumer 0.37.0, accesskit_macos 0.26.2, accesskit_windows 0.32.1, accesskit_winit 0.32.2, bevy_scene_macros 0.19.0, cesu8 1.1.0, constgebra 0.1.4, dasp_sample 0.11.0, dispatch2 0.3.1, document-features 0.2.12, gilrs 0.11.2, gilrs-core 0.6.8, gpu-descriptor 0.3.2, gpu-descriptor-types 0.2.0, jni 0.22.4, jni-macros 0.22.4, jni-sys-macros 0.4.1, ndk 0.9.0, ndk-context 0.1.1, ndk-sys 0.6.0+11769913, objc2-audio-toolbox 0.3.2, objc2-avf-audio 0.3.2, objc2-core-audio 0.3.2, objc2-core-audio-types 0.3.2, objc2-core-foundation 0.3.2, objc2-io-kit 0.3.2, objc2-metal 0.3.2, objc2-quartz-core 0.3.2, profiling 1.0.18, r-efi 5.3.0, r-efi 6.0.0, spirv 0.4.0+sdk-1.4.341.0, svg_fmt 0.4.5, winapi-i686-pc-windows-gnu 0.4.0, winapi-x86_64-pc-windows-gnu 0.4.0
 
 ```
 Apache License
@@ -1441,9 +1441,9 @@ Portions of ICU4X may have been adapted from ICU4C and/or ICU4J.
 ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation and others.
 ```
 
-### Apache-2.0  (13 crates)
+### Apache-2.0  (14 crates)
 
-Applies to: as-raw-xcb-connection 1.0.1, assert_type_match 0.1.1, codespan-reporting 0.12.0, codespan-reporting 0.13.1, cpal 0.17.3, ntapi 0.4.3, raw-window-metal 1.1.0, static_assertions 1.1.0, sys-locale 0.3.2, tinyvec 1.11.0, utf8_iter 1.0.4, x11rb 0.13.2, x11rb-protocol 0.13.2
+Applies to: as-raw-xcb-connection 1.0.1, assert_type_match 0.1.1, codespan-reporting 0.12.0, codespan-reporting 0.13.1, cpal 0.17.3, lzma-rust2 0.23.0, ntapi 0.4.3, raw-window-metal 1.1.0, static_assertions 1.1.0, sys-locale 0.3.2, tinyvec 1.11.0, utf8_iter 1.0.4, x11rb 0.13.2, x11rb-protocol 0.13.2
 
 ```
 Apache License
